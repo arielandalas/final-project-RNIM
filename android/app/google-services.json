@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77986420709",
+    "project_id": "finalprojectrnim-d9d54",
+    "storage_bucket": "finalprojectrnim-d9d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77986420709:android:672e39ae8d50264fcd010c",
+        "android_client_info": {
+          "package_name": "com.reactnativeelementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77986420709-54fhsdo3buomuelednjplhfokmqi182v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativeelementapp",
+            "certificate_hash": "333644edea0c8f815f9474610ac25bc12e56c080"
+          }
+        },
+        {
+          "client_id": "77986420709-5p32l5295e53m2cqpk15rfqftk1hj80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNJ31_tHEc1HYZlzc-Vubvr9anXXHe5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77986420709-5p32l5295e53m2cqpk15rfqftk1hj80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
